@@ -1,6 +1,6 @@
 ---
 title: COUCOU !!!
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Je fais un site
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
